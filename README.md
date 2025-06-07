@@ -21,14 +21,14 @@ We specialise in:
 ### 🚀 Live Projects
 
 #### [`bioslate-hgsoc-core`](https://github.com/oncydra/bioslate-hgsoc-core)
-Synthetic lethality and target discovery in High-Grade Serous Ovarian Cancer (HGSOC), in collaboration with Breakthrough Cancer Research.
+Synthetic lethality and target discovery in High-Grade Serous Ovarian Cancer (HGSOC), funded by Breakthrough Cancer Research.
 
 ---
 
 ### 🧾 Contact
 
 📧 hello@oncydra.com  
-🌐 [oncydra.com](https://oncydra.com)  
+🌐 [oncydra.com](https://oncydra.com) (_Under Construction_)
 🔗 [LinkedIn](https://www.linkedin.com/company/oncydra)
 
 ---
